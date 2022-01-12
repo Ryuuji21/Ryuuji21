@@ -16,7 +16,7 @@
  <div>
 - 🌱 Estou atualmente aprendendo: JS, HTML and CSS
    <br>
-- 👯 Procuro colaborar em: Projetos com interassão em sites
+- 👯 Procuro colaborar em: Projetos com interação em sites
    <br>
 - 🤔 Busco ajuda em: Aprender novas linguagens e aperfeiçoar as que já conheço
    <br>
@@ -34,8 +34,8 @@
    <br>
 - 🤔 I’m looking for help with: Learn new languages and improve the ones I already know
    <br>
-- 📫 How to reach me: ... Email:jprodriguesdasilva19@gmail.com/ Num:+55 (51) 98651-7087
+- 📫 How to reach me: Email:jprodriguesdasilva19@gmail.com/ Num:+55 (51) 98651-7087
    <br>
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: he/him
    <br>
 <div>
