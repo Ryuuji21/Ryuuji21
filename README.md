@@ -22,7 +22,7 @@
    <br>
 - 📫 Como me contatar: Email:jprodriguesdasilva19@gmail.com/ Tel:+55 (51) 98651-7087
    <br>
-- 😄 Pronomes: ele/ dele
+- 😄 Pronomes: ele/dele
    <br>
 <div>
   
